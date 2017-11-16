@@ -6,6 +6,8 @@ sum(5,3)
 def subtract(a,b):
     c = a - b
     return c
-isubtract(5,3)
+subtract(5,3)
 
 feature1
+
+feature2
