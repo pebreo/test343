@@ -1,3 +1,5 @@
 new file content
 
 change newfile
+
+yet more new content
